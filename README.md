@@ -23,19 +23,5 @@ https://kovan.etherscan.io/tx/0x35d87eb0e1c573c5be83c2607dbaca21d84e1b9e2367ea3e
 ## 3. DeferredEquityPlan
 
 Deployed at Kovan Testnet Network
-Contract Address: 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Contract Address: 0x1f8bad418d859bf49064e3771a8842ea8ac1f9f6f82705352ba15309979eb1d1
+https://kovan.etherscan.io/tx/0x1f8bad418d859bf49064e3771a8842ea8ac1f9f6f82705352ba15309979eb1d1
